@@ -29,7 +29,7 @@
 |--------|-------------|------|
 | [**MLOps Pipeline**](https://github.com/mattreinsch/MLOps-Pipeline-for-Fraud-Detection) | Real-time fraud detection with model drift handling and CI/CD automation | Firebase, Next.js, Gemini CLI |
 | [**RefactorAI**](https://github.com/mattreinsch/RefactorAI) | GPT-powered code refactoring tool with full-stack CI/CD and security auditing | Docker, Stripe, React, OpenAI |
-| [**LLM Data Assistant**](https://github.com/mattreinsch/llm-data-assistant) | Natural language interface for querying enterprise SQL data | LangChain, ChromaDB, Streamlit |
+| [**LLM Data Assistant**](https://github.com/mattreinsch/llm-data-assistant) | Natural language interface for querying enterprise SQL data | LangChain, ChromaDB, React, TypeScript |
 | [**Data Drift Blog**](https://github.com/mattreinsch/DataDrift) | SEO-optimized AI blog & newsletter focused on GenAI, LLMOps, and AI strategy | HTML, GitHub Pages |
 
 
