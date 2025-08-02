@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-- 🧠 **AI & MLOps Lead** at **Werner Enterprises** – Leading enterprise GenAI, LLM, and RPA initiatives
+- 🧠 **AI & MLOps Lead** at **Werner Enterprises** – Leading enterprise GenAI, LLM, and MLOps initiatives
 - 🏗️ Architecting AI platforms that integrate **LangChain, Cortex AI, and Snowflake** for real-world impact
 - 🚀 Founder of [**RefactorAI**](https://github.com/mattreinsch/RefactorAI) – a DevSecOps-enabled AI tool suite for code intelligence
 - 📬 Publisher of [**Data Drift**](https://mattreinsch.github.io/DataDrift) – Weekly insights on GenAI, AI leadership, and scaling ML systems
