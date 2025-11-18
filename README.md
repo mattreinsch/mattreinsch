@@ -1,47 +1,92 @@
-<h2 align="center">Hi, I'm Matt Reinsch 👋</h2>
+<h1 align="center">Hi, I'm Matt Reinsch 👋</h1>
+<h3 align="center">AI Systems Architect • Snowflake Cortex • Agentic Automation • Enterprise MLOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mattreinsch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=AI+%26+MLOps+Leader+%7C+LLM+Systems+%7C+GenAI+SaaS;Builder+of+Scalable+AI+Infra;Transforming+Data+into+Products+%26+Platforms" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=Building+AI+Systems+That+Think%2C+Plan%2C+and+Act;Snowflake-Native+Agents+%7C+Governance+Autopilot;LLMOps+%7C+MLOps+%7C+AI+Platform+Engineering">
 </div>
 
 ---
 
 ## 👤 About Me
 
-- 🧠 **AI & MLOps Lead** at **Werner Enterprises** – Leading enterprise GenAI, LLM, and MLOps initiatives
-- 🏗️ Architecting AI platforms that integrate **LangChain, Cortex AI, and Snowflake** for real-world impact
-- 🚀 Founder of [**AegiSync**](https://github.com/mattreinsch/AegiSync) – a DevSecOps-enabled AI tool suite for code intelligence
-- 📬 Publisher of [**Data Drift**](https://mattreinsch.github.io/DataDrift) – Weekly insights on GenAI, AI leadership, and scaling ML systems
-- ⚙️ Focused on shipping **LLMOps pipelines**, **RAG systems**, and **LLM-powered SaaS products**
-- 🏈 Fun fact: Got into machine learning to dominate Fantasy Football 🧠💸
+I build **production-grade AI systems** that automate decisions, enforce governance, and scale across complex enterprise environments.
+
+- 🔷 **AI & MLOps Lead @ Werner Enterprises**  
+  Architecting Snowflake-native AI systems: Cortex agents, governance automation, and intelligent decision systems.
+
+- 🤖 **Specializing in Agentic AI Systems:**  
+  Snowflake Cortex, multi-step planning, function calling, and enterprise workflow automation.
+
+- 🛡️ **Creator of the AI Governance Autopilot**  
+  A self-driving governance engine that auto-detects PII, tags data, applies policies, and logs decisions.
+
+- 🚀 **Founder of AegiSync**  
+  A DevSecOps AI tool that serves 1,200+ developers with automated PR review, secure code remediation, and CI/CD intelligence.
+
+- 📰 **Publisher of Data Drift**  
+  Weekly essays on AI strategy, enterprise LLM systems, governance, and the future of work.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Executive Portfolio)
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**MLOps Pipeline**](https://github.com/mattreinsch/MLOps-Pipeline-for-Fraud-Detection) | Real-time fraud detection with model drift handling and CI/CD automation | Firebase, Next.js, Gemini CLI |
-| [**RefactorAI**](https://github.com/mattreinsch/RefactorAI) | GPT-powered code refactoring tool with full-stack CI/CD and security auditing | Docker, Stripe, React, OpenAI |
-| [**LLM Data Assistant**](https://github.com/mattreinsch/llm-data-assistant) | Natural language interface for querying enterprise SQL data | LangChain, ChromaDB, React, TypeScript |
-| [**Data Drift Blog**](https://github.com/mattreinsch/DataDrift) | SEO-optimized AI blog & newsletter focused on GenAI, LLMOps, and AI strategy | HTML, GitHub Pages |
+### 🔥 **AI Governance Autopilot (Snowflake + Cortex)**
+**Repo:** https://github.com/mattreinsch/ai-governance-autopilot-snowflake  
+Self-driving governance system that:
+- Auto-classifies PII via Cortex  
+- Auto-tags columns  
+- Auto-enforces row access policies  
+- Logs every action  
+- Sends Slack/Teams alerts  
+**Tech:** Snowflake, Cortex, Snowpark Python, Governance
 
+---
 
-> Browse all my repos [here](https://github.com/mattreinsch?tab=repositories)
+### 🤖 **Snowflake Agent That Thinks, Plans, and Acts**
+**Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent  
+A Snowflake-native agentic system capable of multi-step reasoning and workflow automation.  
+**Tech:** Cortex Agent API, Snowpark, SQL tools, Agentic planning
+
+---
+
+### 🧠 **AegiSync — DevSecOps AI Platform**
+**Repo:** https://github.com/mattreinsch/AegiSync  
+AI-powered code intelligence platform:
+- Automated PR reviews  
+- Secure code remediation  
+- CI/CD integration  
+- Developer intelligence dashboard  
+**Tech:** TypeScript, LangChain, React, Docker, Stripe
+
+---
+
+### 🧩 **MLOps Pipeline for Fraud Detection**
+**Repo:** https://github.com/mattreinsch/MLOps-Pipeline-for-Fraud-Detection  
+Real-time MLOps pipeline with drift detection, CI/CD automation, and model monitoring.  
+**Tech:** TypeScript, Next.js, Firebase, Gemini CLI
+
+---
+
+### 💬 **LLM Data Assistant**
+**Repo:** https://github.com/mattreinsch/llm-data-assistant  
+Natural language SQL interface using LLMs.  
+**Tech:** LangChain, ChromaDB, React, TypeScript
+
+---
+
+> 👉 *These pinned repos represent my enterprise AI architecture portfolio — Snowflake, agentic systems, governance automation, and LLM-powered platforms.*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=mattreinsch&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-  <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreinsch&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mattreinsch&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreinsch&layout=compact&theme=gotham&hide_border=true" />
 </p>
 
 ---
@@ -49,7 +94,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=mattreinsch&theme=gotham&hide_border=true'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattreinsch&theme=gotham&hide_border=true" />
 </p>
 
 ---
@@ -60,22 +105,17 @@
   <a href="https://www.linkedin.com/in/mattreinsch/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href='https://github.com/mattreinsch?tab=followers'>
-    <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mattreinsch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+  <a href="https://mattreinsch.com">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://mattreinsch.github.io/DataDrift">
+    <img src="https://img.shields.io/badge/Data%20Drift%20Newsletter-1F2937?style=for-the-badge&logo=mailgun&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace this with an RSS automation or manual updates -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-  <em>“Clear eyes, big heart, can't lose — and green juice.”</em>
+  <em>Building the future of governed, intelligent, self-driving enterprise AI systems.</em>
 </div>
