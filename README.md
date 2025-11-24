@@ -64,10 +64,14 @@ AI-powered code intelligence platform:
 
 ---
 
-### 🧩 **MLOps Pipeline for Fraud Detection**
-**Repo:** https://github.com/mattreinsch/MLOps-Pipeline-for-Fraud-Detection  
-Real-time MLOps pipeline with drift detection, CI/CD automation, and model monitoring.  
-**Tech:** TypeScript, Next.js, Firebase, Gemini CLI
+### 🧩 **Atlas — Full-Stack Snowflake MLOps Platform**
+**Repo:** https://github.com/mattreinsch/atlas-mlops-snowflake 
+
+A complete, Snowflake-native MLOps platform built from the ground up — including a Feature Store, Model Registry, Prediction Log, Drift Engine, Cortex reasoning layer, and automated retraining triggers. 
+
+**Tech:** Snowflake, Snowpark, Cortex, SQL, Python, Tasks, Stored Procedures
+
+**Highlights:** Feature lineage, drift detection, AI-driven commentary, and autonomous retraining inside a single governed platform.
 
 ---
 
