@@ -112,7 +112,7 @@ Natural language SQL interface using LLMs.
   <a href="https://mattreinsch.com">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://mattreinsch.github.io/DataDrift">
+  <a href="https://www.linkedin.com/newsletters/data-drift-7251946577877991425">
     <img src="https://img.shields.io/badge/Data%20Drift%20Newsletter-1F2937?style=for-the-badge&logo=mailgun&logoColor=white"/>
   </a>
 </p>
