@@ -34,6 +34,16 @@ I build **production-grade AI systems** that automate decisions, enforce governa
 
 ## 📌 Featured Projects (Executive Portfolio)
 
+### 🚀 Snowflake Intelligence Agent V2
+**Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent-v2
+A self-directed AI system that plans, reasons, calls tools, reads documents, evaluates governance, and executes actions inside Snowflake.
+
+**Tech:** Snowflake Cortex, Snowpark Python, Agentic Planning, RAG, SQL Tooling
+
+**Highlights:** Multi-modal reasoning • Full audit trails • Toolbelt architecture • Governance-first agentic design
+
+---
+
 ### 🔥 **AI Governance Autopilot (Snowflake + Cortex)**
 **Repo:** https://github.com/mattreinsch/ai-governance-autopilot-snowflake  
 Self-driving governance system that:
@@ -43,24 +53,6 @@ Self-driving governance system that:
 - Logs every action  
 - Sends Slack/Teams alerts  
 **Tech:** Snowflake, Cortex, Snowpark Python, Governance
-
----
-
-### 🤖 **Snowflake Agent That Thinks, Plans, and Acts**
-**Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent  
-A Snowflake-native agentic system capable of multi-step reasoning and workflow automation.  
-**Tech:** Cortex Agent API, Snowpark, SQL tools, Agentic planning
-
----
-
-### 🧠 **AegiSync — DevSecOps AI Platform**
-**Repo:** https://github.com/mattreinsch/AegiSync  
-AI-powered code intelligence platform:
-- Automated PR reviews  
-- Secure code remediation  
-- CI/CD integration  
-- Developer intelligence dashboard  
-**Tech:** TypeScript, LangChain, React, Docker, Stripe
 
 ---
 
@@ -75,7 +67,26 @@ A complete, Snowflake-native MLOps platform built from the ground up — includi
 
 ---
 
-### 💬 **LLM Data Assistant**
+### 🧠 **AegiSync — DevSecOps AI Platform**
+**Repo:** https://github.com/mattreinsch/AegiSync  
+AI-powered code intelligence platform:
+- Automated PR reviews  
+- Secure code remediation  
+- CI/CD integration  
+- Developer intelligence dashboard  
+**Tech:** TypeScript, LangChain, React, Docker, Stripe
+
+
+---
+
+### 📂 More Projects
+
+### 🔹 **Snowflake Agent That Thinks, Plans, and Acts**
+**Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent  
+A Snowflake-native agentic system capable of multi-step reasoning and workflow automation.  
+**Tech:** Cortex Agent API, Snowpark, SQL tools, Agentic planning
+
+### 🔹 **LLM Data Assistant**
 **Repo:** https://github.com/mattreinsch/llm-data-assistant  
 Natural language SQL interface using LLMs.  
 **Tech:** LangChain, ChromaDB, React, TypeScript
