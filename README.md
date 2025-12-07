@@ -84,7 +84,7 @@ AI-powered code intelligence platform for automated PR review, secure remediatio
 
 ---
 
-👉 These repos represent my enterprise AI architecture portfolio — spanning Snowflake-native agents, MLOps platforms, governance automation, and unified control layers for enterprise AI.
+> 👉 *These repos represent my enterprise AI architecture portfolio — spanning Snowflake-native agents, MLOps platforms, governance automation, and unified control layers for enterprise AI.*
 ---
 
 ## 📈 GitHub Stats
