@@ -11,90 +11,80 @@
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
 I build **production-grade AI systems** that automate decisions, enforce governance, and scale across complex enterprise environments.
 
-- 🔷 **AI & MLOps Lead @ Werner Enterprises**  
-  Architecting Snowflake-native AI systems: Cortex agents, governance automation, and intelligent decision systems.
+---
 
-- 🤖 **Specializing in Agentic AI Systems:**  
-  Snowflake Cortex, multi-step planning, function calling, and enterprise workflow automation.
+## 🔷 AI & MLOps Lead @ Werner Enterprises
 
-- 🛡️ **Creator of the AI Governance Autopilot**  
-  A self-driving governance engine that auto-detects PII, tags data, applies policies, and logs decisions.
+I architect **Snowflake-native AI systems**: Cortex agents, governance automation, and intelligent decision systems.
 
-- 🚀 **Founder of AegiSync**  
-  A DevSecOps AI tool that serves 1,200+ developers with automated PR review, secure code remediation, and CI/CD intelligence.
+### 🤖 Specializing in Agentic AI Systems:
+* **Snowflake Cortex**, multi-step planning, function calling, and enterprise workflow automation.
 
-- 📰 **Publisher of Data Drift**  
-  Weekly essays on AI strategy, enterprise LLM systems, governance, and the future of work.
+### 🧠 Architect of the Enterprise AI Control Plane
+* A unified operating layer that coordinates agents, models, governance, and workflows inside Snowflake.
+
+### 🛡️ Creator of the AI Governance Autopilot
+* A self-driving governance engine that auto-detects **PII**, tags data, applies policies, and logs decisions.
+
+### 🚀 Founder of AegiSync
+* A DevSecOps AI tool that serves 1,200+ developers with automated PR review, secure code remediation, and CI/CD intelligence.
+
+### 📰 Publisher of Data Drift
+* Weekly essays on AI strategy, enterprise LLM systems, governance, and the future of work.
 
 ---
 
 ## 📌 Featured Projects (Executive Portfolio)
 
+### 🌐 Enterprise AI Control Plane (V1) — NEW
+A Snowflake-native orchestration layer that unifies Atlas (MLOps), the Intelligence Agent (reasoning & actions), and Governance Autopilot into a single coordinated AI system.
+
+* **Repo:** https://github.com/mattreinsch/enterprise-ai-control-plane
+* **Tech:** Snowflake Cortex, Snowpark Python, Policy Engine, Observability Layer, Workflow Orchestration
+* **Highlights:**
+    * Unified registry for agents, workflows, and policies.
+    * Policy engine that enforces what should happen.
+    * Workflow engine coordinating ML, LLM, governance & actions.
+    * End-to-end observability & auditability.
+    * Forms the **AI operating system layer** for the enterprise.
+
 ### 🚀 Snowflake Intelligence Agent V2
-**Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent-v2
 A self-directed AI system that plans, reasons, calls tools, reads documents, evaluates governance, and executes actions inside Snowflake.
 
-**Tech:** Snowflake Cortex, Snowpark Python, Agentic Planning, RAG, SQL Tooling
+* **Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent-v2
+* **Tech:** Cortex Agent API, Snowpark Python, Agentic Planning, RAG, SQL Tooling
 
-**Highlights:** Multi-modal reasoning • Full audit trails • Toolbelt architecture • Governance-first agentic design
+### 🔥 AI Governance Autopilot
+A self-driving governance engine that auto-classifies PII, tags data, applies policies, and logs decisions.
 
----
+* **Repo:** https://github.com/mattreinsch/ai-governance-autopilot-snowflake
 
-### 🔥 **AI Governance Autopilot (Snowflake + Cortex)**
-**Repo:** https://github.com/mattreinsch/ai-governance-autopilot-snowflake  
-Self-driving governance system that:
-- Auto-classifies PII via Cortex  
-- Auto-tags columns  
-- Auto-enforces row access policies  
-- Logs every action  
-- Sends Slack/Teams alerts  
-**Tech:** Snowflake, Cortex, Snowpark Python, Governance
+### 🧩 Atlas — Full-Stack Snowflake MLOps Platform
+A complete Snowflake-native MLOps platform with feature store, registry, drift detection, automated retraining, and Cortex reasoning.
 
----
+* **Repo:** https://github.com/mattreinsch/atlas-mlops-snowflake
 
-### 🧩 **Atlas — Full-Stack Snowflake MLOps Platform**
-**Repo:** https://github.com/mattreinsch/atlas-mlops-snowflake 
+### 🧠 AegiSync — DevSecOps AI Platform
+AI-powered code intelligence platform for automated PR review, secure remediation, and developer analytics.
 
-A complete, Snowflake-native MLOps platform built from the ground up — including a Feature Store, Model Registry, Prediction Log, Drift Engine, Cortex reasoning layer, and automated retraining triggers. 
-
-**Tech:** Snowflake, Snowpark, Cortex, SQL, Python, Tasks, Stored Procedures
-
-**Highlights:** Feature lineage, drift detection, AI-driven commentary, and autonomous retraining inside a single governed platform.
+* **Repo:** https://github.com/mattreinsch/AegiSync
 
 ---
 
-### 🧠 **AegiSync — DevSecOps AI Platform**
-**Repo:** https://github.com/mattreinsch/AegiSync  
-AI-powered code intelligence platform:
-- Automated PR reviews  
-- Secure code remediation  
-- CI/CD integration  
-- Developer intelligence dashboard  
-**Tech:** TypeScript, LangChain, React, Docker, Stripe
+## 📂 More Projects
 
+* 🔹 **Snowflake Agent That Thinks, Plans, and Acts**
+    * Repo: https://github.com/mattreinsch/snowflake-intelligence-agent
+* 🔹 **LLM Data Assistant**
+    * Repo: https://github.com/mattreinsch/llm-data-assistant
 
 ---
 
-### 📂 More Projects
-
-### 🔹 **Snowflake Agent That Thinks, Plans, and Acts**
-**Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent  
-A Snowflake-native agentic system capable of multi-step reasoning and workflow automation.  
-**Tech:** Cortex Agent API, Snowpark, SQL tools, Agentic planning
-
-### 🔹 **LLM Data Assistant**
-**Repo:** https://github.com/mattreinsch/llm-data-assistant  
-Natural language SQL interface using LLMs.  
-**Tech:** LangChain, ChromaDB, React, TypeScript
-
----
-
-> 👉 *These pinned repos represent my enterprise AI architecture portfolio — Snowflake, agentic systems, governance automation, and LLM-powered platforms.*
-
+👉 These repos represent my enterprise AI architecture portfolio — spanning Snowflake-native agents, MLOps platforms, governance automation, and unified control layers for enterprise AI.
 ---
 
 ## 📈 GitHub Stats
