@@ -40,8 +40,8 @@ I architect **Snowflake-native AI systems**: Cortex agents, governance automatio
 
 ## 📌 Featured Projects (Executive Portfolio)
 
-### 🌐 Enterprise AI Control Plane (V1) — NEW
-A Snowflake-native orchestration layer that unifies Atlas (MLOps), the Intelligence Agent (reasoning & actions), and Governance Autopilot into a single coordinated AI system.
+### 🌐 Enterprise AI Control Plane
+A Snowflake-native operating layer that coordinates agents, models, governance, and decision workflows into a single, governed AI system.
 
 * **Repo:** https://github.com/mattreinsch/enterprise-ai-control-plane
 * **Tech:** Snowflake Cortex, Snowpark Python, Policy Engine, Observability Layer, Workflow Orchestration
@@ -50,7 +50,7 @@ A Snowflake-native orchestration layer that unifies Atlas (MLOps), the Intellige
     * Policy engine that enforces what should happen.
     * Workflow engine coordinating ML, LLM, governance & actions.
     * End-to-end observability & auditability.
-    * Forms the **AI operating system layer** for the enterprise.
+    * Functions as the **AI operating system layer** for the enterprise.
 
 ### 🚀 Snowflake Intelligence Agent V2
 A self-directed AI system that plans, reasons, calls tools, reads documents, evaluates governance, and executes actions inside Snowflake.
