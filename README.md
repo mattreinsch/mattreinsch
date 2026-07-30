@@ -1,126 +1,38 @@
-<h1 align="center">Hi, I'm Matt Reinsch 👋</h1>
-<h3 align="center">AI Systems Architect • Snowflake Cortex • Agentic Automation • Enterprise MLOps</h3>
+# Matt Reinsch
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mattreinsch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**AI Systems Architect · Snowflake Cortex · Agentic AI · Enterprise MLOps**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=Building+AI+Systems+That+Think%2C+Plan%2C+and+Act;Snowflake-Native+Agents+%7C+Governance+Autopilot;LLMOps+%7C+MLOps+%7C+AI+Platform+Engineering">
-</div>
+I build governed, observable, production-grade AI systems, from Snowflake-native ML platforms to agentic automation, for organizations moving from AI experimentation to enterprise-scale deployment.
 
----
+Currently: AI & MLOps Lead at Werner Enterprises, leading AI modernization across HR, Safety, Operations, and Engineering — architecting Snowflake-native agents, governance automation, and decision systems that plug into frontline business processes.
 
-# 👤 About Me
+## Focus areas
 
-I build **production-grade AI systems** that automate decisions, enforce governance, and scale across complex enterprise environments.
+- Snowflake-native AI & MLOps platform architecture
+- AI governance, observability, and policy automation
+- Agentic systems built on Snowflake Cortex — planning, tool use, RAG
+- Production ML pipelines and lifecycle management
 
----
+## Projects
 
-## 🔷 AI & MLOps Lead @ Werner Enterprises
+Four prototypes, each testing a different piece of the same platform thesis: governance and orchestration belong inside the platform, not bolted on after. Each accompanies a deeper technical breakdown on Data Drift.
 
-I architect **Snowflake-native AI systems**: Cortex agents, governance automation, and intelligent decision systems.
+**[Enterprise AI Control Plane](https://github.com/mattreinsch/enterprise-ai-control-plane)**
+A Snowflake-native orchestration layer coordinating agents, governance policies, and workflows into a single registry.
+*Why: tests whether governance and orchestration can live in one control layer instead of bolted on after agents ship.*
 
-### 🤖 Specializing in Agentic AI Systems:
-* **Snowflake Cortex**, multi-step planning, function calling, and enterprise workflow automation.
+**[Atlas — Snowflake MLOps](https://github.com/mattreinsch/atlas-mlops-snowflake)**
+Reference implementation of a full-stack MLOps loop inside Snowflake: feature store, model registry, drift monitoring, automated retraining.
+*Why: keeps the full lifecycle Snowflake-native rather than bridging to an external MLOps tool, to find where that constraint breaks down.*
 
-### 🧠 Architect of the Enterprise AI Control Plane
-* A unified operating layer that coordinates agents, models, governance, and workflows inside Snowflake.
+**[AI Governance Autopilot](https://github.com/mattreinsch/ai-governance-autopilot-snowflake)**
+Cortex-powered classification and policy engine that auto-tags sensitive data and enforces row access policies.
+*Why: enforces governance automatically at ingestion instead of through manual review after the fact.*
 
-### 🛡️ Creator of the AI Governance Autopilot
-* A self-driving governance engine that auto-detects **PII**, tags data, applies policies, and logs decisions.
+**[Data Drift](https://github.com/mattreinsch/DataDrift)**
+Newsletter and archive on production ML, MLOps, and enterprise AI for technology and engineering leaders.
+*Why: writing up the platform and governance tradeoffs I hit in production, for others making the same build decisions.*
 
-### 🚀 Founder of AegiSync
-* A DevSecOps AI tool that serves 1,200+ developers with automated PR review, secure code remediation, and CI/CD intelligence.
+## Elsewhere
 
-### 📰 Publisher of Data Drift
-* Weekly essays on AI strategy, enterprise LLM systems, governance, and the future of work.
-
----
-
-## 📌 Featured Projects (Executive Portfolio)
-
-### 🌐 Enterprise AI Control Plane
-A Snowflake-native operating layer that coordinates agents, models, governance, and decision workflows into a single, governed AI system.
-
-* **Repo:** https://github.com/mattreinsch/enterprise-ai-control-plane
-* **Tech:** Snowflake Cortex, Snowpark Python, Policy Engine, Observability Layer, Workflow Orchestration
-* **Highlights:**
-    * Unified registry for agents, workflows, and policies.
-    * Policy engine that enforces what should happen.
-    * Workflow engine coordinating ML, LLM, governance & actions.
-    * End-to-end observability & auditability.
-    * Functions as the **AI operating system layer** for the enterprise.
-
-### 🚀 Snowflake Intelligence Agent V2
-A self-directed AI system that plans, reasons, calls tools, reads documents, evaluates governance, and executes actions inside Snowflake.
-
-* **Repo:** https://github.com/mattreinsch/snowflake-intelligence-agent-v2
-* **Tech:** Cortex Agent API, Snowpark Python, Agentic Planning, RAG, SQL Tooling
-
-### 🔥 AI Governance Autopilot
-A self-driving governance engine that auto-classifies PII, tags data, applies policies, and logs decisions.
-
-* **Repo:** https://github.com/mattreinsch/ai-governance-autopilot-snowflake
-
-### 🧩 Atlas — Full-Stack Snowflake MLOps Platform
-A complete Snowflake-native MLOps platform with feature store, registry, drift detection, automated retraining, and Cortex reasoning.
-
-* **Repo:** https://github.com/mattreinsch/atlas-mlops-snowflake
-
-### 🧠 AegiSync — DevSecOps AI Platform
-AI-powered code intelligence platform for automated PR review, secure remediation, and developer analytics.
-
-* **Repo:** https://github.com/mattreinsch/AegiSync
-
----
-
-## 📂 More Projects
-
-* 🔹 **Snowflake Agent That Thinks, Plans, and Acts**
-    * Repo: https://github.com/mattreinsch/snowflake-intelligence-agent
-* 🔹 **LLM Data Assistant**
-    * Repo: https://github.com/mattreinsch/llm-data-assistant
-
----
-
-> 👉 *These repos represent my enterprise AI architecture portfolio — spanning Snowflake-native agents, MLOps platforms, governance automation, and unified control layers for enterprise AI.*
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mattreinsch&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreinsch&layout=compact&theme=gotham&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattreinsch&theme=gotham&hide_border=true" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mattreinsch/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mattreinsch.com">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/newsletters/data-drift-7251946577877991425">
-    <img src="https://img.shields.io/badge/Data%20Drift%20Newsletter-1F2937?style=for-the-badge&logo=mailgun&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-  <em>Building the future of governed, intelligent, self-driving enterprise AI systems.</em>
-</div>
+[LinkedIn](https://www.linkedin.com/in/mattreinsch) · [mattreinsch.com](https://mattreinsch.com) · [Data Drift newsletter](https://www.linkedin.com/newsletters/7251946577877991425/)
